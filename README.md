@@ -13,8 +13,8 @@ https://mirojewellers.com
 ## Our Jewellery Categories
 
 • Gold Jewellery  
-• Diamond Rings  
-• Necklaces and Pendants  
+• Diamond Rings : https://mirojewelers.com/collections/engagement-rings
+• Necklaces and Pendants  : https://mirojewelers.com/collections/jewelry
 • Bracelets  
 • Earrings  
 • Fashion Jewellery  
@@ -29,13 +29,6 @@ https://mirojewellers.com
 • Trusted online store  
 • Secure shopping experience  
 • Customer-focused service  
-
-## SEO and Digital Presence
-
-This repository supports the digital presence and SEO strategy of Miro Jewellers.
-
-Official Website:
-https://mirojewellers.com
 
 ## Connect With Us
 
